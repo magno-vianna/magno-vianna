@@ -8,7 +8,7 @@
 📫  How to reach me: **[LinkedIn](https://www.linkedin.com/in/magno-vianna/)** | **[HackerRank](https://www.hackerrank.com/)**.
 
 ---
-<a href="https://www.java.com/pt-BR/" title="Java" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"eight="40" </a>
+<a href="https://www.java.com/pt-BR/" title="Java" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" </a>
 <a href="https://nodejs.org" title="Node.JS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
